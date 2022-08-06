@@ -1,4 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<img  src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsankit&label=Profile%20views&color=0e75b6&style=flat" alt="httpsankit" /> </p>
@@ -7,6 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" width = "300px"  src="giphy.webp">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://musical-kataifi-a0aa46.netlify.app/](https://musical-kataifi-a0aa46.netlify.app/)
