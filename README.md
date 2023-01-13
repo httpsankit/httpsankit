@@ -12,7 +12,9 @@
 <img align="right" width = "300px"  src="giphy.webp">
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://musical-kataifi-a0aa46.netlify.app/](https://musical-kataifi-a0aa46.netlify.app/)
+-👨‍💻 My Updated Resume [https://drive.google.com/file/d/10Zr-d47tsaVisHF0ILwXSGGPBwtN5YZI/view?usp=share_link](Resume)
+
+- 👨‍💻 All of my projects are available at [https://httpsankit.github.io/](https://httpsankit.github.io/)
 
 - 💬 Ask me about **MERN Stack**
 
